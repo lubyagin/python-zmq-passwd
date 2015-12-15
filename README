@@ -1,0 +1,10 @@
+C:\Python27\python.exe srv.py
+Initialized
+Bind at :41000
+INC
+INC
+EXIT
+
+C:\Python27\python.exe cli.py
+1
+2
